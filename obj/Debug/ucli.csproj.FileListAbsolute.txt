@@ -1,0 +1,9 @@
+C:\Projects\ucli\ucli\bin\Debug\ucli.exe
+C:\Projects\ucli\ucli\bin\Debug\ucli.pdb
+C:\Projects\ucli\ucli\obj\Debug\ucli.csproj.AssemblyReference.cache
+C:\Projects\ucli\ucli\obj\Debug\ucli.csproj.SuggestedBindingRedirects.cache
+C:\Projects\ucli\ucli\obj\Debug\ucli.csproj.CoreCompileInputs.cache
+C:\Projects\ucli\ucli\obj\Debug\ucli.exe
+C:\Projects\ucli\ucli\obj\Debug\ucli.pdb
+C:\Projects\ucli\ucli\bin\Debug\FFmpeg.NET.dll
+C:\Projects\ucli\ucli\obj\Debug\ucli.csproj.CopyComplete
